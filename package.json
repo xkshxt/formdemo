@@ -9,10 +9,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@xkshxt/dynamic-form-lib": "file:../../../../../../Work/Wireone/dynamic-form-lib/xkshxt-dynamic-form-lib-1.0.0.tgz",
     "expo": "~52.0.35",
     "expo-status-bar": "~2.0.1",
     "react": "18.3.1",
-    "react-native": "0.76.7"
+    "react-hook-form": "^7.54.2",
+    "react-native": "0.76.7",
+    "zod": "^3.24.2"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
